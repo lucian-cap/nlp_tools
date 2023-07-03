@@ -1,0 +1,10 @@
+transformers[sentencepiece]
+torch
+xformers
+sacremoses
+fire
+datasets
+accelerate
+evaluate
+scipy
+scikit-learn
