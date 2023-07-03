@@ -2,3 +2,4 @@ pip
 setuptools
 wheel
 spacy[cuda122,transformers,lookups]
+ipython
